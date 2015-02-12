@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 public class EntradaDatos {
     /**
-     * 
+     * si num=0, introduces por pantalla, si numn=1, introduces por cuadrado.
      * @param num
      * @return op
      */
